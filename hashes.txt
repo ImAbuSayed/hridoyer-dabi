@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hridoyer Dabi
+
+This log tracks the cryptographic history and versioning for the song **Hridoyer Dabi** (hridoyer-dabi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T08:39:31.541051 | `v1` | `aacbecfda53a7e049cd6df6fadf3b0cdba209c48d5555ee21116e41cdac9f340` | `c20231b3cd32b2c24d6695454f3a3deeecc5ef2976a99617b3e5c32184571ecb` | `2026-05-10_hridoyer-dabi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
